@@ -1,4 +1,4 @@
-userstring = input("Please enter your string(Max: 4000 characters): ")
+userstring = input("Please enter your string(Max: 4000 chars): ")
 
 print("The your string is", len(userstring), "characters long")
 
